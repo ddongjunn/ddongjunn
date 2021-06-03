@@ -1,16 +1,23 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=🖐Hi%20there🖐&fontSize=65&fontAlignY=56&animation=scaleIn)
 
-<!--
-**ddongjunn/ddongjunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5>🌱 I'm Dongjun. Learning web development process.</h5>
 
-Here are some ideas to get you started:
+<h5>🛠 Technology stack</h5>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+<h5>📫 How to reach me</h5>
+<a href="https://jhost.tistory.com/" onclick="return ! window.open(this.href);">
+<img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ddongjunn&show_icons=true&hide=contribs&theme=graywhite&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddongjunn&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
