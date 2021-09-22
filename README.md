@@ -1,16 +1,31 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=🖐Hi%20there🖐&fontSize=65&fontAlignY=56&animation=scaleIn)
 
-<h5>🌱 I'm Dongjun. Learning web development process.</h5>
+👋 &nbsp;Hey there! I'm Dongjun Lee\
+I'm on track for learning more about Java and JavaScript.🌱
 
-<h5>🛠 Technology stack</h5>
+I enjoy hiking, swimming, surf and dive.⛰️🤿
 
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>    <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>    <img src="https://img.shields.io/badge/SPRING-6DB33F?style=flat-square&logo=SPRING&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/> 
+### 💪Skills
+###### Languages
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=1572B6&logoColor=white)&nbsp;
 
-<h5>📫 How to reach me</h5>
+###### Frameworks
+![SPRING](https://img.shields.io/badge/SPRING-6DB33F?style=flat&logo=SPRING&logoColor=white)&nbsp; 
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)&nbsp;
+![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=falt&logo=jquery&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)&nbsp;
+
+
+###### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black)&nbsp;
+
+###### Tried
+
+### 📫 How to reach me
 <a href="https://jhost.tistory.com/" onclick="return ! window.open(this.href);">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
 
-
-## Github Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddongjunn&show_icons=true&hide=contribs&theme=graywhite&count_private=true&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddongjunn&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="https://www.instagram.com/dong.jun/" onclick="return ! window.open(this.href);">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
