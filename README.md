@@ -21,8 +21,6 @@ I enjoy hiking, swimming, surf and dive.⛰️🤿
 ###### Database
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=black)&nbsp;
 
-###### Tried
-
 ### 📫 How to reach me
 <a href="https://jhost.tistory.com/" onclick="return ! window.open(this.href);">
 <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tidal&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
