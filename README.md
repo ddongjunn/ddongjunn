@@ -1,5 +1,6 @@
 
-👋 &nbsp;Hey there! I'm Dongjun Lee\
+### 👋About me
+Hey there! I'm Dongjun Lee\
 I'm on track for learning more about Java and JavaScript.🌱
 
 I enjoy hiking, swimming, surf and dive.⛰️🤿
